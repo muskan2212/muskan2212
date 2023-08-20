@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Muskan Bharti
+- 👋 Hi, I’m Muskan Bharti a software consultant.
 - 👀 I’m interested in machine learning and data science
 - 🌱 I’m currently learning data science and and exploring LLMs
-- 💞️ I’m looking to collaborate on kaggle and github

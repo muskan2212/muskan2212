@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muskan Bharti a software consultant.
-- 👀 I’m interested in machine learning, data science and exploring LLMs
-- 🌱 I’m currently a software consultant backend developer.
+- 👀 I’m interested in AI ML and data science.
+  
 
   
 

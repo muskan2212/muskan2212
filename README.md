@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Muskan Bharti a software consultant.
-- 👀 I’m interested in AI ML and data science.
+- 👋 Hi, I’m Muskan Bharti a software developer.
+- 👀 I’m interested in AI ML data science and GenerativeAI.
   
 
   
